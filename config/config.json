@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x95Bce67825Ea24b632c97B0393F1789A479b3878",
+  "SCAN_LINK": "https://polygonscan.com/token/0x95Bce67825Ea24b632c97B0393F1789A479b3878",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Broccoli Club",
+  "SYMBOL": "Broccoli",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/broccoli-club",
+  "SHOW_BACKGROUND": true
+}
