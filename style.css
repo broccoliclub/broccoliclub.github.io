@@ -1,0 +1,82 @@
+img {
+    width: 100%;
+  }
+  
+  #id1 {
+    text-align: center;
+    font-family: 'Oswald';
+    font-size: 35px;
+    width: 100%;
+    height: 10vh;
+    background-color: orangered;
+    position: fixed;
+    top: -50px;
+    border: none;
+  }
+  #id2 {
+    text-align: center;
+    font-family: 'Oswald';
+    font-size: 35px;
+    width: 100%;
+    height: 10vh;
+    background-color: orangered;
+    position: relative;
+    top: -50px;
+    border: none;
+  }
+  #id3 {
+    text-align: center;
+    font-family: 'Oswald';
+    font-size: 35px;
+    width: 100%;
+    height: 10vh;
+    background-color: orangered;
+    position: relative;
+    top: -50px;
+    border: none;
+  }
+  
+  body {
+    background-color: lightgreen;
+  }
+  
+  a {
+    color: rgb(0, 217, 255);
+  }
+  
+  @media only screen and (max-width: 600px) {
+    #id1 { 
+    text-align: center;
+    font-family: 'Oswald';
+    font-size: 30px;
+    width: 100%;
+    height: 7vh;
+    background-color: redorange;
+    position: fixed;
+    top: -40px;
+    border: none;
+    }
+    #id2 {
+    text-align: center;
+    font-family: 'Oswald';
+    font-size: 35px;
+    width: 100%;
+    height: 10vh;
+    background-color: orangered;
+    position: relative;
+    top: -50px;
+    border: none;
+  }
+  #id3 {
+    text-align: center;
+    font-family: 'Oswald';
+    font-size: 35px;
+    width: 100%;
+    height: 10vh;
+    background-color: orangered;
+    position: relative;
+    top: -50px;
+    border: none;
+  }
+  }
+  
