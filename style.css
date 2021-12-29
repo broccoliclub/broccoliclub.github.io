@@ -37,8 +37,8 @@ img {
 }
 
 body {
-  background-color: lightgreen;
-}
+    background-image: linear-gradient(to right, rgb(248, 4, 195), orangered,cyan, yellow);
+  }
 
 a {
   color: rgb(0, 217, 255);
